@@ -1,6 +1,6 @@
 # optimouse
 
-This erpository contains source files for running optimouse, a program for analusis of mouse position data
+This repository contains source files for running optimouse, a program for analusis of mouse position data
 
 A few notes on running optimouse:
 - Make sure that both the "optimouse" and the "optimouse_user_definitions" directories are in the MATLAB path.
